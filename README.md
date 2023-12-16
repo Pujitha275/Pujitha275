@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *React Native*
 
-- 👨‍💻 All of my projects are available at [https://shaiksajidhussain.github.io/personal_portfolio/](https://shaiksajidhussain.github.io/personal_portfolio/)
+- 👨‍💻 All of my projects are available at [https://pujitha275.github.io/Pujitha275/](https://shaiksajidhussain.github.io/personal_portfolio/)
 
 
 - 💬 Ask me about **Front End Development, Figma, Java, Spring, **
